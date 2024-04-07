@@ -1,0 +1,134 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="An evolution of one of the greatest game sites.">
+
+  <meta content="Jordansmathwork" property="og:title">
+
+  <meta content="Jordan's math work is a comprehensive educational platform designed to help students master various mathematical concepts. With a user-friendly interface, it offers a wide range of resources, including video tutorials, interactive practice problems, and detailed explanations. Jordan, an experienced math tutor and educator, provides clear and concise lessons that break down complex concepts into manageable steps. The platform also offers personalized learning tools, allowing students to track their progress and identify areas for improvement. Overall, Jordansmathwork offers a dynamic and engaging learning experience for students of all levels." property="og:description">
+  <meta name="990307346a802b31ebca359cf92b73af820e63c0" content="990307346a802b31ebca359cf92b73af820e63c0">
+  <title>Jordansmathwork | Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+  <link rel="icon" href="/assets/img/jmw.png">
+  <link rel="shortcut icon" href="/assets/img/jmw.png">
+  <style>
+    .featuredimg {
+      height: 87px;
+      width: 87px;
+      border-radius: 10px;
+      transition: 0.8s;
+      text-decoration: none;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+      border: 5px solid var(--txt-color);
+      border-style: solid;
+    }
+    .featuredimg:hover {
+      transform: scale(1.3);
+      z-index: 2;
+      border: 5px solid yellow;
+    }
+  </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/am=wA/d=0/rs=AN8SPfq5gedF4FIOWZgYyMCNZA5tU966ig/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US._W3nUGMaihk.O/am=AAQ/d=1/exm=el_conf/ed=1/rs=AN8SPfrRoOoMWXfO_m3gcxdy_dZTGXS9mw/m=el_main"></script><style>.▭__adsby{position:absolute;padding:2px;font-size:8px;line-height:12px;text-decoration:none;color:rgba(0,0,0,0.35);text-shadow:1px 1px 0 rgba(255,255,255,0.5);opacity:1;transition:opacity .23s ease-out}.▭__adsby::selection{background-color:transparent}.▭__adsby::-moz-selection{background-color:transparent}.▭_hidden .▭__adsby{opacity:0}.▭{--pushOffsetX: 0;direction:ltr;position:fixed;bottom:16px;right:16px;display:flex;flex-direction:column-reverse;width:344px;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;z-index:2147483647}@media (max-width: 494px){.▭{top:16px;bottom:auto;flex-direction:column}.▭ .▭__push ~ .▭__push{margin-bottom:0;margin-top:8px}}.▭ *,.▭ *::before,.▭ *::after{box-sizing:border-box}.▭__push{position:relative;left:calc(100% + 16px + 344px + 20px);max-height:110px;padding:8px;background:#efeeec;border-radius:10px;box-shadow:0 0 6px 2px rgba(0,0,0,0.12),0 0 2px 0 rgba(0,0,0,0.17),0 0 1px 0 rgba(0,0,0,0.22),inset 0 0 0 1px rgba(242,241,239,0.95);opacity:.94;will-change:left;cursor:default;transition:left .3s ease}@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){.▭__push{-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px)}}.▭__push.▭_started{left:var(--pushOffsetX);transition:left .3s ease;will-change:opacity}.▭__push.▭_dragging{transition:left 0s linear}.▭__push.▭_drag-right{left:calc(100% + 16px + 344px + 20px);transition:left .25s ease}.▭__push.▭_hidden{max-height:0;opacity:0;padding:0;transition:opacity .23s ease,padding .23s ease,max-height .23s ease;transition-delay:0s,.23s,.23s}.▭__push.▭_hidden+.▭__push{margin-top:0;transition:margin-top .23s ease;transition-delay:.23s}.▭__push ~ .▭__push{margin-bottom:8px}.▭__body{display:flex;padding:2px 3px 0}.▭__text{flex:1 1 auto;min-width:0;padding-bottom:3px;padding-right:15px}.▭__title{font-size:13px;line-height:18px;font-weight:600;letter-spacing:-0.02px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__title::selection{background-color:transparent}.▭__title::-moz-selection{background-color:transparent}.▭__domain{margin-bottom:1px;font-size:13px;line-height:18px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__domain::selection{background-color:transparent}.▭__domain::-moz-selection{background-color:transparent}.▭__desc{max-height:32px;font-size:13px;line-height:16px;color:#141514;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;pointer-events:none}.▭__desc::selection{background-color:transparent}.▭__desc::-moz-selection{background-color:transparent}.▭__icon{flex:0 0 34px;width:34px;height:34px;margin-right:8px;border-radius:4px;margin-top:5px}.▭__close{position:absolute;top:8px;right:5px;width:21px !important;height:21px !important;background:none !important;border-radius:20px !important;padding:0 !important;border-style:none;opacity:.94;transition:none;outline:none !important;will-change:opacity;cursor:default !important}.▭__close:hover{background:inherit !important;border-color:inherit !important}.▭__close:active{background:#e0dfdd !important}.▭__close::before,.▭__close::after{content:'';position:absolute;width:9px;height:1.25px;background:#5c5b5a;transform:rotate(45deg);top:9.5px;left:6px}.▭__close::after{transform:rotate(-45deg)}.▭__push:hover .▭__close{opacity:.94;transition:opacity .1s ease-in}.▭__adsby{bottom:100%;right:4px}
+</style><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="An evolution of one of the greatest game sites.">
+
+  <meta content="Jordansmathwork" property="og:title">
+
+  <meta content="Jordan's math work is a comprehensive educational platform designed to help students master various mathematical concepts. With a user-friendly interface, it offers a wide range of resources, including video tutorials, interactive practice problems, and detailed explanations. Jordan, an experienced math tutor and educator, provides clear and concise lessons that break down complex concepts into manageable steps. The platform also offers personalized learning tools, allowing students to track their progress and identify areas for improvement. Overall, Jordansmathwork offers a dynamic and engaging learning experience for students of all levels." property="og:description">
+  <meta name="990307346a802b31ebca359cf92b73af820e63c0" content="990307346a802b31ebca359cf92b73af820e63c0">
+  <title>Jordansmathwork | Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+  <link rel="icon" href="/assets/img/jmw.png">
+  <link rel="shortcut icon" href="/assets/img/jmw.png">
+  <style>
+    .featuredimg {
+      height: 87px;
+      width: 87px;
+      border-radius: 10px;
+      transition: 0.8s;
+      text-decoration: none;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+      border: 5px solid var(--txt-color);
+      border-style: solid;
+    }
+    .featuredimg:hover {
+      transform: scale(1.3);
+      z-index: 2;
+      border: 5px solid yellow;
+    }
+  </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/am=wA/d=0/rs=AN8SPfq5gedF4FIOWZgYyMCNZA5tU966ig/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US._W3nUGMaihk.O/am=AAQ/d=1/exm=el_conf/ed=1/rs=AN8SPfrRoOoMWXfO_m3gcxdy_dZTGXS9mw/m=el_main"></script><style>.▭__adsby{position:absolute;padding:2px;font-size:8px;line-height:12px;text-decoration:none;color:rgba(0,0,0,0.35);text-shadow:1px 1px 0 rgba(255,255,255,0.5);opacity:1;transition:opacity .23s ease-out}.▭__adsby::selection{background-color:transparent}.▭__adsby::-moz-selection{background-color:transparent}.▭_hidden .▭__adsby{opacity:0}.▭{--pushOffsetX: 0;direction:ltr;position:fixed;bottom:16px;right:16px;display:flex;flex-direction:column-reverse;width:344px;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;z-index:2147483647}@media (max-width: 494px){.▭{top:16px;bottom:auto;flex-direction:column}.▭ .▭__push ~ .▭__push{margin-bottom:0;margin-top:8px}}.▭ *,.▭ *::before,.▭ *::after{box-sizing:border-box}.▭__push{position:relative;left:calc(100% + 16px + 344px + 20px);max-height:110px;padding:8px;background:#efeeec;border-radius:10px;box-shadow:0 0 6px 2px rgba(0,0,0,0.12),0 0 2px 0 rgba(0,0,0,0.17),0 0 1px 0 rgba(0,0,0,0.22),inset 0 0 0 1px rgba(242,241,239,0.95);opacity:.94;will-change:left;cursor:default;transition:left .3s ease}@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){.▭__push{-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px)}}.▭__push.▭_started{left:var(--pushOffsetX);transition:left .3s ease;will-change:opacity}.▭__push.▭_dragging{transition:left 0s linear}.▭__push.▭_drag-right{left:calc(100% + 16px + 344px + 20px);transition:left .25s ease}.▭__push.▭_hidden{max-height:0;opacity:0;padding:0;transition:opacity .23s ease,padding .23s ease,max-height .23s ease;transition-delay:0s,.23s,.23s}.▭__push.▭_hidden+.▭__push{margin-top:0;transition:margin-top .23s ease;transition-delay:.23s}.▭__push ~ .▭__push{margin-bottom:8px}.▭__body{display:flex;padding:2px 3px 0}.▭__text{flex:1 1 auto;min-width:0;padding-bottom:3px;padding-right:15px}.▭__title{font-size:13px;line-height:18px;font-weight:600;letter-spacing:-0.02px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__title::selection{background-color:transparent}.▭__title::-moz-selection{background-color:transparent}.▭__domain{margin-bottom:1px;font-size:13px;line-height:18px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__domain::selection{background-color:transparent}.▭__domain::-moz-selection{background-color:transparent}.▭__desc{max-height:32px;font-size:13px;line-height:16px;color:#141514;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;pointer-events:none}.▭__desc::selection{background-color:transparent}.▭__desc::-moz-selection{background-color:transparent}.▭__icon{flex:0 0 34px;width:34px;height:34px;margin-right:8px;border-radius:4px;margin-top:5px}.▭__close{position:absolute;top:8px;right:5px;width:21px !important;height:21px !important;background:none !important;border-radius:20px !important;padding:0 !important;border-style:none;opacity:.94;transition:none;outline:none !important;will-change:opacity;cursor:default !important}.▭__close:hover{background:inherit !important;border-color:inherit !important}.▭__close:active{background:#e0dfdd !important}.▭__close::before,.▭__close::after{content:'';position:absolute;width:9px;height:1.25px;background:#5c5b5a;transform:rotate(45deg);top:9.5px;left:6px}.▭__close::after{transform:rotate(-45deg)}.▭__push:hover .▭__close{opacity:.94;transition:opacity .1s ease-in}.▭__adsby{bottom:100%;right:4px}
+</style></head></head><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="An evolution of one of the greatest game sites.">
+
+  <meta content="Jordansmathwork" property="og:title">
+
+  <meta content="Jordan's math work is a comprehensive educational platform designed to help students master various mathematical concepts. With a user-friendly interface, it offers a wide range of resources, including video tutorials, interactive practice problems, and detailed explanations. Jordan, an experienced math tutor and educator, provides clear and concise lessons that break down complex concepts into manageable steps. The platform also offers personalized learning tools, allowing students to track their progress and identify areas for improvement. Overall, Jordansmathwork offers a dynamic and engaging learning experience for students of all levels." property="og:description">
+  <meta name="990307346a802b31ebca359cf92b73af820e63c0" content="990307346a802b31ebca359cf92b73af820e63c0">
+  <title>Jordansmathwork | Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+  <link rel="icon" href="/assets/img/jmw.png">
+  <link rel="shortcut icon" href="/assets/img/jmw.png">
+  <style>
+    .featuredimg {
+      height: 87px;
+      width: 87px;
+      border-radius: 10px;
+      transition: 0.8s;
+      text-decoration: none;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+      border: 5px solid var(--txt-color);
+      border-style: solid;
+    }
+    .featuredimg:hover {
+      transform: scale(1.3);
+      z-index: 2;
+      border: 5px solid yellow;
+    }
+  </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/am=wA/d=0/rs=AN8SPfq5gedF4FIOWZgYyMCNZA5tU966ig/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US._W3nUGMaihk.O/am=AAQ/d=1/exm=el_conf/ed=1/rs=AN8SPfrRoOoMWXfO_m3gcxdy_dZTGXS9mw/m=el_main"></script><style>.▭__adsby{position:absolute;padding:2px;font-size:8px;line-height:12px;text-decoration:none;color:rgba(0,0,0,0.35);text-shadow:1px 1px 0 rgba(255,255,255,0.5);opacity:1;transition:opacity .23s ease-out}.▭__adsby::selection{background-color:transparent}.▭__adsby::-moz-selection{background-color:transparent}.▭_hidden .▭__adsby{opacity:0}.▭{--pushOffsetX: 0;direction:ltr;position:fixed;bottom:16px;right:16px;display:flex;flex-direction:column-reverse;width:344px;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;z-index:2147483647}@media (max-width: 494px){.▭{top:16px;bottom:auto;flex-direction:column}.▭ .▭__push ~ .▭__push{margin-bottom:0;margin-top:8px}}.▭ *,.▭ *::before,.▭ *::after{box-sizing:border-box}.▭__push{position:relative;left:calc(100% + 16px + 344px + 20px);max-height:110px;padding:8px;background:#efeeec;border-radius:10px;box-shadow:0 0 6px 2px rgba(0,0,0,0.12),0 0 2px 0 rgba(0,0,0,0.17),0 0 1px 0 rgba(0,0,0,0.22),inset 0 0 0 1px rgba(242,241,239,0.95);opacity:.94;will-change:left;cursor:default;transition:left .3s ease}@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){.▭__push{-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px)}}.▭__push.▭_started{left:var(--pushOffsetX);transition:left .3s ease;will-change:opacity}.▭__push.▭_dragging{transition:left 0s linear}.▭__push.▭_drag-right{left:calc(100% + 16px + 344px + 20px);transition:left .25s ease}.▭__push.▭_hidden{max-height:0;opacity:0;padding:0;transition:opacity .23s ease,padding .23s ease,max-height .23s ease;transition-delay:0s,.23s,.23s}.▭__push.▭_hidden+.▭__push{margin-top:0;transition:margin-top .23s ease;transition-delay:.23s}.▭__push ~ .▭__push{margin-bottom:8px}.▭__body{display:flex;padding:2px 3px 0}.▭__text{flex:1 1 auto;min-width:0;padding-bottom:3px;padding-right:15px}.▭__title{font-size:13px;line-height:18px;font-weight:600;letter-spacing:-0.02px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__title::selection{background-color:transparent}.▭__title::-moz-selection{background-color:transparent}.▭__domain{margin-bottom:1px;font-size:13px;line-height:18px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__domain::selection{background-color:transparent}.▭__domain::-moz-selection{background-color:transparent}.▭__desc{max-height:32px;font-size:13px;line-height:16px;color:#141514;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;pointer-events:none}.▭__desc::selection{background-color:transparent}.▭__desc::-moz-selection{background-color:transparent}.▭__icon{flex:0 0 34px;width:34px;height:34px;margin-right:8px;border-radius:4px;margin-top:5px}.▭__close{position:absolute;top:8px;right:5px;width:21px !important;height:21px !important;background:none !important;border-radius:20px !important;padding:0 !important;border-style:none;opacity:.94;transition:none;outline:none !important;will-change:opacity;cursor:default !important}.▭__close:hover{background:inherit !important;border-color:inherit !important}.▭__close:active{background:#e0dfdd !important}.▭__close::before,.▭__close::after{content:'';position:absolute;width:9px;height:1.25px;background:#5c5b5a;transform:rotate(45deg);top:9.5px;left:6px}.▭__close::after{transform:rotate(-45deg)}.▭__push:hover .▭__close{opacity:.94;transition:opacity .1s ease-in}.▭__adsby{bottom:100%;right:4px}
+</style><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="An evolution of one of the greatest game sites.">
+
+  <meta content="Jordansmathwork" property="og:title">
+
+  <meta content="Jordan's math work is a comprehensive educational platform designed to help students master various mathematical concepts. With a user-friendly interface, it offers a wide range of resources, including video tutorials, interactive practice problems, and detailed explanations. Jordan, an experienced math tutor and educator, provides clear and concise lessons that break down complex concepts into manageable steps. The platform also offers personalized learning tools, allowing students to track their progress and identify areas for improvement. Overall, Jordansmathwork offers a dynamic and engaging learning experience for students of all levels." property="og:description">
+  <meta name="990307346a802b31ebca359cf92b73af820e63c0" content="990307346a802b31ebca359cf92b73af820e63c0">
+  <title>Jordansmathwork | Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+  <link rel="icon" href="/assets/img/jmw.png">
+  <link rel="shortcut icon" href="/assets/img/jmw.png">
+  <style>
+    .featuredimg {
+      height: 87px;
+      width: 87px;
+      border-radius: 10px;
+      transition: 0.8s;
+      text-decoration: none;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+      border: 5px solid var(--txt-color);
+      border-style: solid;
+    }
+    .featuredimg:hover {
+      transform: scale(1.3);
+      z-index: 2;
+      border: 5px solid yellow;
+    }
+  </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/am=wA/d=0/rs=AN8SPfq5gedF4FIOWZgYyMCNZA5tU966ig/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US._W3nUGMaihk.O/am=AAQ/d=1/exm=el_conf/ed=1/rs=AN8SPfrRoOoMWXfO_m3gcxdy_dZTGXS9mw/m=el_main"></script><style>.▭__adsby{position:absolute;padding:2px;font-size:8px;line-height:12px;text-decoration:none;color:rgba(0,0,0,0.35);text-shadow:1px 1px 0 rgba(255,255,255,0.5);opacity:1;transition:opacity .23s ease-out}.▭__adsby::selection{background-color:transparent}.▭__adsby::-moz-selection{background-color:transparent}.▭_hidden .▭__adsby{opacity:0}.▭{--pushOffsetX: 0;direction:ltr;position:fixed;bottom:16px;right:16px;display:flex;flex-direction:column-reverse;width:344px;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;z-index:2147483647}@media (max-width: 494px){.▭{top:16px;bottom:auto;flex-direction:column}.▭ .▭__push ~ .▭__push{margin-bottom:0;margin-top:8px}}.▭ *,.▭ *::before,.▭ *::after{box-sizing:border-box}.▭__push{position:relative;left:calc(100% + 16px + 344px + 20px);max-height:110px;padding:8px;background:#efeeec;border-radius:10px;box-shadow:0 0 6px 2px rgba(0,0,0,0.12),0 0 2px 0 rgba(0,0,0,0.17),0 0 1px 0 rgba(0,0,0,0.22),inset 0 0 0 1px rgba(242,241,239,0.95);opacity:.94;will-change:left;cursor:default;transition:left .3s ease}@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){.▭__push{-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px)}}.▭__push.▭_started{left:var(--pushOffsetX);transition:left .3s ease;will-change:opacity}.▭__push.▭_dragging{transition:left 0s linear}.▭__push.▭_drag-right{left:calc(100% + 16px + 344px + 20px);transition:left .25s ease}.▭__push.▭_hidden{max-height:0;opacity:0;padding:0;transition:opacity .23s ease,padding .23s ease,max-height .23s ease;transition-delay:0s,.23s,.23s}.▭__push.▭_hidden+.▭__push{margin-top:0;transition:margin-top .23s ease;transition-delay:.23s}.▭__push ~ .▭__push{margin-bottom:8px}.▭__body{display:flex;padding:2px 3px 0}.▭__text{flex:1 1 auto;min-width:0;padding-bottom:3px;padding-right:15px}.▭__title{font-size:13px;line-height:18px;font-weight:600;letter-spacing:-0.02px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__title::selection{background-color:transparent}.▭__title::-moz-selection{background-color:transparent}.▭__domain{margin-bottom:1px;font-size:13px;line-height:18px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__domain::selection{background-color:transparent}.▭__domain::-moz-selection{background-color:transparent}.▭__desc{max-height:32px;font-size:13px;line-height:16px;color:#141514;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;pointer-events:none}.▭__desc::selection{background-color:transparent}.▭__desc::-moz-selection{background-color:transparent}.▭__icon{flex:0 0 34px;width:34px;height:34px;margin-right:8px;border-radius:4px;margin-top:5px}.▭__close{position:absolute;top:8px;right:5px;width:21px !important;height:21px !important;background:none !important;border-radius:20px !important;padding:0 !important;border-style:none;opacity:.94;transition:none;outline:none !important;will-change:opacity;cursor:default !important}.▭__close:hover{background:inherit !important;border-color:inherit !important}.▭__close:active{background:#e0dfdd !important}.▭__close::before,.▭__close::after{content:'';position:absolute;width:9px;height:1.25px;background:#5c5b5a;transform:rotate(45deg);top:9.5px;left:6px}.▭__close::after{transform:rotate(-45deg)}.▭__push:hover .▭__close{opacity:.94;transition:opacity .1s ease-in}.▭__adsby{bottom:100%;right:4px}
+</style></head></head>
+
