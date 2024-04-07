@@ -1,0 +1,362 @@
+<html lang="en" style="height: 100%;"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="An evolution of one of the greatest game sites.">
+
+  <meta content="Jordansmathwork" property="og:title">
+
+  <meta content="Jordan's math work is a comprehensive educational platform designed to help students master various mathematical concepts. With a user-friendly interface, it offers a wide range of resources, including video tutorials, interactive practice problems, and detailed explanations. Jordan, an experienced math tutor and educator, provides clear and concise lessons that break down complex concepts into manageable steps. The platform also offers personalized learning tools, allowing students to track their progress and identify areas for improvement. Overall, Jordansmathwork offers a dynamic and engaging learning experience for students of all levels." property="og:description">
+  <meta name="990307346a802b31ebca359cf92b73af820e63c0" content="990307346a802b31ebca359cf92b73af820e63c0">
+  <title>Jordansmathwork | Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+  <link rel="icon" href="/assets/img/jmw.png">
+  <link rel="shortcut icon" href="/assets/img/jmw.png">
+  <style>
+    .featuredimg {
+      height: 87px;
+      width: 87px;
+      border-radius: 10px;
+      transition: 0.8s;
+      text-decoration: none;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+      border: 5px solid var(--txt-color);
+      border-style: solid;
+    }
+    .featuredimg:hover {
+      transform: scale(1.3);
+      z-index: 2;
+      border: 5px solid yellow;
+    }
+  </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/am=wA/d=0/rs=AN8SPfq5gedF4FIOWZgYyMCNZA5tU966ig/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US._W3nUGMaihk.O/am=AAQ/d=1/exm=el_conf/ed=1/rs=AN8SPfrRoOoMWXfO_m3gcxdy_dZTGXS9mw/m=el_main"></script><style>.▭__adsby{position:absolute;padding:2px;font-size:8px;line-height:12px;text-decoration:none;color:rgba(0,0,0,0.35);text-shadow:1px 1px 0 rgba(255,255,255,0.5);opacity:1;transition:opacity .23s ease-out}.▭__adsby::selection{background-color:transparent}.▭__adsby::-moz-selection{background-color:transparent}.▭_hidden .▭__adsby{opacity:0}.▭{--pushOffsetX: 0;direction:ltr;position:fixed;bottom:16px;right:16px;display:flex;flex-direction:column-reverse;width:344px;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;z-index:2147483647}@media (max-width: 494px){.▭{top:16px;bottom:auto;flex-direction:column}.▭ .▭__push ~ .▭__push{margin-bottom:0;margin-top:8px}}.▭ *,.▭ *::before,.▭ *::after{box-sizing:border-box}.▭__push{position:relative;left:calc(100% + 16px + 344px + 20px);max-height:110px;padding:8px;background:#efeeec;border-radius:10px;box-shadow:0 0 6px 2px rgba(0,0,0,0.12),0 0 2px 0 rgba(0,0,0,0.17),0 0 1px 0 rgba(0,0,0,0.22),inset 0 0 0 1px rgba(242,241,239,0.95);opacity:.94;will-change:left;cursor:default;transition:left .3s ease}@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){.▭__push{-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px)}}.▭__push.▭_started{left:var(--pushOffsetX);transition:left .3s ease;will-change:opacity}.▭__push.▭_dragging{transition:left 0s linear}.▭__push.▭_drag-right{left:calc(100% + 16px + 344px + 20px);transition:left .25s ease}.▭__push.▭_hidden{max-height:0;opacity:0;padding:0;transition:opacity .23s ease,padding .23s ease,max-height .23s ease;transition-delay:0s,.23s,.23s}.▭__push.▭_hidden+.▭__push{margin-top:0;transition:margin-top .23s ease;transition-delay:.23s}.▭__push ~ .▭__push{margin-bottom:8px}.▭__body{display:flex;padding:2px 3px 0}.▭__text{flex:1 1 auto;min-width:0;padding-bottom:3px;padding-right:15px}.▭__title{font-size:13px;line-height:18px;font-weight:600;letter-spacing:-0.02px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__title::selection{background-color:transparent}.▭__title::-moz-selection{background-color:transparent}.▭__domain{margin-bottom:1px;font-size:13px;line-height:18px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__domain::selection{background-color:transparent}.▭__domain::-moz-selection{background-color:transparent}.▭__desc{max-height:32px;font-size:13px;line-height:16px;color:#141514;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;pointer-events:none}.▭__desc::selection{background-color:transparent}.▭__desc::-moz-selection{background-color:transparent}.▭__icon{flex:0 0 34px;width:34px;height:34px;margin-right:8px;border-radius:4px;margin-top:5px}.▭__close{position:absolute;top:8px;right:5px;width:21px !important;height:21px !important;background:none !important;border-radius:20px !important;padding:0 !important;border-style:none;opacity:.94;transition:none;outline:none !important;will-change:opacity;cursor:default !important}.▭__close:hover{background:inherit !important;border-color:inherit !important}.▭__close:active{background:#e0dfdd !important}.▭__close::before,.▭__close::after{content:'';position:absolute;width:9px;height:1.25px;background:#5c5b5a;transform:rotate(45deg);top:9.5px;left:6px}.▭__close::after{transform:rotate(-45deg)}.▭__push:hover .▭__close{opacity:.94;transition:opacity .1s ease-in}.▭__adsby{bottom:100%;right:4px}
+</style></head>
+
+  <body theme="classic" style="position: relative; min-height: 100%; top: 0px;">
+    <script src="//glaringregister.com/a.W/5ywpYKWcdwl/QT2H9OkZZKTT9/6Mba2m5zl/STWjQA9/NfT/Aj5/N-jZEB5/MyiP0T1dMgDTkB2fM/T_k_zC" async=""></script><script>
+    (function(fiszh){
+    var d = document,
+        s = d.createElement('script'),
+        l = d.scripts[d.scripts.length - 1];
+    s.settings = fiszh || {};
+    s.src = "\/\/glaringregister.com\/a.W\/5ywpYKWcdwl\/QT2H9OkZZKTT9\/6Mba2m5zl\/STWjQA9\/NfT\/Aj5\/N-jZEB5\/MyiP0T1dMgDTkB2fM\/T_k_zC";
+    s.async = true;
+    l.parentNode.insertBefore(s, l);
+    })({})
+    </script>
+    <script src="//glaringregister.com/biXkVLsud.G/lc0/Y_Wec_/WejmZ9pufZHUMlZkUPjT/U/w/OzT/YixtOgTnQ/tyNtTJAH5mNdjvEW5eNjQz" async=""></script><script>
+    (function(ufvwob){
+    var d = document,
+        s = d.createElement('script'),
+        l = d.scripts[d.scripts.length - 1];
+    s.settings = ufvwob || {};
+    s.src = "\/\/glaringregister.com\/biXkVLsud.G\/lc0\/Y_Wec_\/WejmZ9pufZHUMlZkUPjT\/U\/w\/OzT\/YixtOgTnQ\/tyNtTJAH5mNdjvEW5eNjQz";
+    s.async = true;
+    l.parentNode.insertBefore(s, l);
+    })({})
+    </script>
+  <div class="tab-bar">
+    <div class="container">
+      <img src="assets/img/jmw.png" style="
+            border-radius: 25px;
+            padding: 20px;
+            width: 50px;
+            height: px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            ">
+    </div>
+    <p><strong>v4</strong></p>
+    <a href="/" class="tab" data-tab="home"><i class="fas fa-home"></i> Home</a>
+    <a href="gs" class="tab" data-tab="google"><i class="fas fa-gamepad"></i> Games</a>
+    <a href="/math" class="tab" data-tab="win11"><i class="fab fa-app-store-ios"></i> Apps</a>
+    <a href="settings" class="tab" data-tab="brave"><i class="fas fa-cog"></i> Settings</a>
+     <a href="/chat" class="tab" data-tab="brave"><i class="fa-regular fa-comments"></i> Chatbox</a>
+  </div>
+  <div align="center">
+    <p> </p>
+    <div style="background:transparent; border-radius: 4px;" id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" style="display: inline;"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="as">Assamese</option><option value="ay">Aymara</option><option value="az">Azerbaijani</option><option value="bm">Bambara</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bho">Bhojpuri</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="dv">Dhivehi</option><option value="doi">Dogri</option><option value="nl">Dutch</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="ee">Ewe</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gn">Guarani</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="ilo">Ilocano</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="rw">Kinyarwanda</option><option value="gom">Konkani</option><option value="ko">Korean</option><option value="kri">Krio</option><option value="ku">Kurdish (Kurmanji)</option><option value="ckb">Kurdish (Sorani)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="ln">Lingala</option><option value="lt">Lithuanian</option><option value="lg">Luganda</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mai">Maithili</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mni-Mtei">Meiteilon (Manipuri)</option><option value="lus">Mizo</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="or">Odia (Oriya)</option><option value="om">Oromo</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="qu">Quechua</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="sa">Sanskrit</option><option value="gd">Scots Gaelic</option><option value="nso">Sepedi</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="tt">Tatar</option><option value="te">Telugu</option><option value="th">Thai</option><option value="ti">Tigrinya</option><option value="ts">Tsonga</option><option value="tr">Turkish</option><option value="tk">Turkmen</option><option value="ak">Twi</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="ug">Uyghur</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select></div>&nbsp;&nbsp;Powered by <span style="white-space:nowrap"><a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank"><img src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></div>
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({ pageLanguage: "en", layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL }, "google_translate_element");
+      }
+    </script>
+
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="container">
+      <img src="/assets/img/jmw.png" style="
+            border-radius: 25px;
+            padding: 20px;
+            width: 50px;
+            height: px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            ">
+    </div>
+  </div>
+  <h4>JordansMathWork</h4>
+    <h6 class="motd">motd: v5 is done! thanks for using v4! :) join the discord for links!</h6>
+  <p><span id="subtitle">LOL</span></p>
+    <button style="width: px; height: 150px; font-size: 15px;" onclick="location.href='link-gen.html'" id="start-button"><i class="fa-solid fa-circle-question"></i> Want more links?</button>
+  <button style="width: px; height: 150px; font-size: 15px;" onclick="location.href='/reports.html?report=bug.html'" id="start-button"><i class="fa-solid fa-bug-slash"></i> Wanna report a bug? Click here!</button>
+  <button style="width: px; height: 150px; font-size: 15px;" onclick="location.href='xploits'"><i class="fa-solid fa-lock-open"></i> Exp<span>loi</span>ts/Bookmarklets</button>
+  <!-- hitwebcounter Code START -->
+  <a href="https://www.hitwebcounter.com" target="_blank">
+    <img src="https://hitwebcounter.com/counter/counter.php?page=8133209&amp;style=0036&amp;nbdigits=9&amp;type=page&amp;initCount=14623" title="Free Counter" alt="web counter" border="0"></a>
+  
+  
+    <div align="center">
+      <strong><h6 style="font-weight: bold; font-size:30px;">Featured:</h6></strong>
+      <img src="https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht" class="featuredimg" onclick="location.href='/gs/src/rblx'">
+      <img src="/assets/img/gameimg/mc152.png" class="featuredimg" onclick="location.href='/gs/files.html?file=mc/1.5.2/inde.html&amp;type=local'">
+      <img src="assets/img/gameimg/slope.jpg" onclick="location.href='/gs/files.html?file=slope&amp;type=3kh0'" onerror="this.src='/assets/img/no-icon-found.png'" class="featuredimg" alt="Slope">
+      <img src="assets/img/gameimg/bounce-masters.jpg" onclick="location.href='/gs/files.html?file=bounce-master&amp;type=local'" onerror="this.src='/assets/img/no-icon-found.png'" class="featuredimg" alt="Bounce Masters">
+      <img src="/assets/img/gameimg/basket.jpeg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=basket-random&amp;type=3kh0'" class="featuredimg" alt="Basket Random">
+      <p> </p>
+      <img src="assets/img/gameimg/f.png" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/src/fortnite'" class="featuredimg" alt="Fortnite">
+      <img src="assets/img/gameimg/alien-hominid.jpg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=alien-hominid&amp;type=local'" class="featuredimg" alt="Alien Hominid">
+      <img src="assets/img/gameimg/amazing-strange.jpeg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=amazing-rope-police&amp;type=3kh0'" class="featuredimg" alt="Bitlife">
+      <img src="assets/img/gameimg/retro.jpg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=retro-bowl&amp;type=3kh0'" class="featuredimg" alt="Retro Bowl">
+      <img src="assets/img/gameimg/retrobowl-college.png" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=retro-bowl-college&amp;type=local'" class="featuredimg" alt="Retro Bowl">
+    </div>
+  <div align="center">
+    <a class="ez" href="https://github.com/GalacticNetwork/jordansmathwork-v4"><i class="fa-brands fa-github"></i></a>
+    <a class="ez" href="https://dsc.gg/gnetwork"><i class="fa-brands fa-discord"></i></a>
+    <a class="ez" href="https://tiktok.com/@galacticnetworkofficial"><i class="fa-brands fa-tiktok"></i></a>
+    <a class="ez" href="https://youtube.com/channel/UCie_zggArXCJHKiZRJqUWRw"><i class="fa-brands fa-youtube"></i></a>
+  </div>
+  <img style="border-radius: 24px; width: 450; height: 150;" src="assets/img/advertizements.gif">
+  <div align="center">
+    <footer>
+      <h6><i class="fa-solid fa-user-lock"></i> <strong>Trusted by 20k+</strong></h6>
+    </footer>
+    <center>
+      <footer>
+        <h6><i class="fa-solid fa-gamepad"></i> Over 300+ games</h6>
+      </footer>
+    </center>
+  </div>
+    <a class="button" href="/reviews">All Reviews</a>
+    <div class="contain">
+
+      <div class="team">
+        <div class="member">
+          <img class="reviewimg" src="/assets/img/reviewimg/slqnted.png" alt="member_image">
+          <h3 class="h3">slqnt</h3>
+          <span>8/10</span>
+          <p>A lot of games, over 200 is insane. Kind of buggy tho, i dont blame him, it's in beta.</p>
+        </div>
+        <div class="member">
+          <img class="reviewimg " src="https://64.media.tumblr.com/98cb8f1d9eb69e5a1f9f6d08c2e3a693/tumblr_ns6issAtWt1uylufgo1_500.gif" alt="member_image">
+          <h3 class="h3">Not_bduber274</h3>
+          <span>10/10</span>
+          <p>Jordansmathwork is a great site, i enjoy the games, great styles, customization and more. 10/10.</p>
+        </div>
+        <div class="member">
+          <img class="reviewimg" src="/assets/img/reviewimg/firestar.jpeg" alt="member_image">
+          <h3 class="h3">FireStar</h3>
+          <span class="review">10/10</span>
+          <p>Jordansmathwork is by far the best unblocked game website in the thousands of them out there! Highly recommend!^^</p>
+        </div>
+      </div>
+    </div>
+    <br>
+  <div class="footer">
+    <div class="copyright">
+      <a class="small" href="/info" style="text-decoration: none; color: inherit; "><i class="fa-regular fa-copyright"></i><strong> copyright galactic network 2024 - 2025</strong></a>
+    </div>
+  </div>
+  
+<script src="/assets/scripts/subtitle.js"></script>
+<script src="/assets/scripts/settings1.js"></script>
+<script src="/assets/scripts/settings2.js"></script>
+<script src="/assets/scripts/autoab.js"></script>
+  <script src="/js/panic.js"></script>
+  <script src="/js/themes.js"></script>
+  <script src="/js/index.js"></script>
+<script src="https://www.handsomebend.pro/ecc874/7a841f9d85d2.js"></script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0" data-xweqlk-handled="1"></iframe><div class="xweqlkOverlay" style="background:#666;opacity:0.0001;position:absolute;cursor:pointer;height:0px;width:0px;left:0px;top:0px;z-index:2"></div></div></div></div><div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><div class="▭" id="kaxims"><a class="▭__adsby" href="" id="kaxims-adsby" target="_blank" tabindex="-1"></a><div class="▭__push ▭_started"><div class="▭__body"><div class="▭__icon" style="background: url(https://glaringregister.com/c.H-VTzUaVGWl_tYZZza9bh-ZdEelfkgP_TiUjzkNlj-An5oMpCqZ_jsdtDu1vs-cxnyhzvAZ_GCJDpEaFT-dH5IZJWKh_uMcNGOsP4-NRjSVTqUe_SWZXmYcZH-Yb9cMdCeZ_mgchniYj9-MlCmZnpob_Wqcr9satH-Rv0wcxHyM_lAMB0CEDl-MFkGYHlIM_kKYLxMMND-kP0QNRSS0_yULVnWMXu-YZ2aRbucM_TeUfugYh2-9jtkJlTmJ_GoYp3qJrl-YtXuRvpwd_myVzzAJBT-JDGENFzGE_5INJDKALl-MNkOYPyQO_DSQTyUOVT-IXlYMZkaY_1cMdzeYfw-OhTiBjfkY_2mIn1oMpz-IrusctGu5_nwJxnyBzh-eBTC0DwEJ_nGBHhIeJW-9L1MdNFOB_lQcRkSNTs-aVWWNXrYP_TaAbmccdm-Vf2gPhTiA_mkcl2mlnk-Mpzq0rmsc_3uMv9wNxC-ZzzAdBDC0_xEJFnGpHv-bJmKVLJMZ_DO0P1QMRD-kT2UMVTWk_yY) center/cover"></div><div class="▭__text"><div class="▭__title">Wait for your order, private!</div><div class="▭__domain">ilililililililililililililililililili.netlify.app</div><div class="▭__desc">Get on boat right now!</div></div></div><button class="▭__close" data-button="" tabindex="-1"></button></div><div class="▭__push ▭_started"><div class="▭__body"><div class="▭__icon" style="background: url(https://glaringregister.com/cMHNV.zOa_GQlRtSZTz-9VhWZXEYl_kaPbTcUdz-NfjgAh4iN_ykZljmdnD-1psqcrnsh_suZvGwJxp-azTAdB5CZ_WEhFqGZHj-AJwKML2Mt_6ONPiQZRm-cTHUYV9WM_CYZZmacbn-Yd9eMfCgZ_pibjWkcl9-anHoRp0qc_HsMtluMv0-ExlyMzkAY_lCMDkEYFx-MHDIkJ0KN_SM0NyOLPn-MRuSYT2UR_uWMXTYUZu-Yb2c9dteJ_TgJhGiYj3-JllmYnXoR_pqdrmsVtz-JvTwJxGyN_zAEB5CNDD-AFlGMHkIY_yKOLDMQNy-OPTQIRlSM_kUYV1WMXz-YZwaObDcd_feNfTgAh0-NjGkUlumc_Go5pnqJrn-BthuevTw0_wyJznABBh-eDWE9F1Gd_FIBJlKcLk-NNsOaPWQN_rSPTTUAVm-cXmYVZ2aP_TcAdmecf2-lhkiMjzk0_mmcn3oMp9-NrCsZtzud_Dw0xxyJzn-pBvCbDmEV_JGZHDI0J1-MLDMkN2OM_TQkRyS) center/cover"></div><div class="▭__text"><div class="▭__title">Can you win?</div><div class="▭__domain">ilililililililililililililililililili.netlify.app</div><div class="▭__desc">Show her your worth!</div></div></div><button class="▭__close" data-button="" tabindex="-1"></button></div></div><div style="width:100%;height:100%;position:fixed;top:0;left:0;z-index:9999999;display:none;"></div></body><html lang="en" style="height: 100%;"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="An evolution of one of the greatest game sites.">
+
+  <meta content="Jordansmathwork" property="og:title">
+
+  <meta content="Jordan's math work is a comprehensive educational platform designed to help students master various mathematical concepts. With a user-friendly interface, it offers a wide range of resources, including video tutorials, interactive practice problems, and detailed explanations. Jordan, an experienced math tutor and educator, provides clear and concise lessons that break down complex concepts into manageable steps. The platform also offers personalized learning tools, allowing students to track their progress and identify areas for improvement. Overall, Jordansmathwork offers a dynamic and engaging learning experience for students of all levels." property="og:description">
+  <meta name="990307346a802b31ebca359cf92b73af820e63c0" content="990307346a802b31ebca359cf92b73af820e63c0">
+  <title>Jordansmathwork | Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+  <link rel="icon" href="/assets/img/jmw.png">
+  <link rel="shortcut icon" href="/assets/img/jmw.png">
+  <style>
+    .featuredimg {
+      height: 87px;
+      width: 87px;
+      border-radius: 10px;
+      transition: 0.8s;
+      text-decoration: none;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+      border: 5px solid var(--txt-color);
+      border-style: solid;
+    }
+    .featuredimg:hover {
+      transform: scale(1.3);
+      z-index: 2;
+      border: 5px solid yellow;
+    }
+  </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/am=wA/d=0/rs=AN8SPfq5gedF4FIOWZgYyMCNZA5tU966ig/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US._W3nUGMaihk.O/am=AAQ/d=1/exm=el_conf/ed=1/rs=AN8SPfrRoOoMWXfO_m3gcxdy_dZTGXS9mw/m=el_main"></script><style>.▭__adsby{position:absolute;padding:2px;font-size:8px;line-height:12px;text-decoration:none;color:rgba(0,0,0,0.35);text-shadow:1px 1px 0 rgba(255,255,255,0.5);opacity:1;transition:opacity .23s ease-out}.▭__adsby::selection{background-color:transparent}.▭__adsby::-moz-selection{background-color:transparent}.▭_hidden .▭__adsby{opacity:0}.▭{--pushOffsetX: 0;direction:ltr;position:fixed;bottom:16px;right:16px;display:flex;flex-direction:column-reverse;width:344px;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;z-index:2147483647}@media (max-width: 494px){.▭{top:16px;bottom:auto;flex-direction:column}.▭ .▭__push ~ .▭__push{margin-bottom:0;margin-top:8px}}.▭ *,.▭ *::before,.▭ *::after{box-sizing:border-box}.▭__push{position:relative;left:calc(100% + 16px + 344px + 20px);max-height:110px;padding:8px;background:#efeeec;border-radius:10px;box-shadow:0 0 6px 2px rgba(0,0,0,0.12),0 0 2px 0 rgba(0,0,0,0.17),0 0 1px 0 rgba(0,0,0,0.22),inset 0 0 0 1px rgba(242,241,239,0.95);opacity:.94;will-change:left;cursor:default;transition:left .3s ease}@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){.▭__push{-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px)}}.▭__push.▭_started{left:var(--pushOffsetX);transition:left .3s ease;will-change:opacity}.▭__push.▭_dragging{transition:left 0s linear}.▭__push.▭_drag-right{left:calc(100% + 16px + 344px + 20px);transition:left .25s ease}.▭__push.▭_hidden{max-height:0;opacity:0;padding:0;transition:opacity .23s ease,padding .23s ease,max-height .23s ease;transition-delay:0s,.23s,.23s}.▭__push.▭_hidden+.▭__push{margin-top:0;transition:margin-top .23s ease;transition-delay:.23s}.▭__push ~ .▭__push{margin-bottom:8px}.▭__body{display:flex;padding:2px 3px 0}.▭__text{flex:1 1 auto;min-width:0;padding-bottom:3px;padding-right:15px}.▭__title{font-size:13px;line-height:18px;font-weight:600;letter-spacing:-0.02px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__title::selection{background-color:transparent}.▭__title::-moz-selection{background-color:transparent}.▭__domain{margin-bottom:1px;font-size:13px;line-height:18px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#141514;pointer-events:none}.▭__domain::selection{background-color:transparent}.▭__domain::-moz-selection{background-color:transparent}.▭__desc{max-height:32px;font-size:13px;line-height:16px;color:#141514;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;pointer-events:none}.▭__desc::selection{background-color:transparent}.▭__desc::-moz-selection{background-color:transparent}.▭__icon{flex:0 0 34px;width:34px;height:34px;margin-right:8px;border-radius:4px;margin-top:5px}.▭__close{position:absolute;top:8px;right:5px;width:21px !important;height:21px !important;background:none !important;border-radius:20px !important;padding:0 !important;border-style:none;opacity:.94;transition:none;outline:none !important;will-change:opacity;cursor:default !important}.▭__close:hover{background:inherit !important;border-color:inherit !important}.▭__close:active{background:#e0dfdd !important}.▭__close::before,.▭__close::after{content:'';position:absolute;width:9px;height:1.25px;background:#5c5b5a;transform:rotate(45deg);top:9.5px;left:6px}.▭__close::after{transform:rotate(-45deg)}.▭__push:hover .▭__close{opacity:.94;transition:opacity .1s ease-in}.▭__adsby{bottom:100%;right:4px}
+</style></head>
+
+  <body theme="classic" style="position: relative; min-height: 100%; top: 0px;">
+    <script src="//glaringregister.com/a.W/5ywpYKWcdwl/QT2H9OkZZKTT9/6Mba2m5zl/STWjQA9/NfT/Aj5/N-jZEB5/MyiP0T1dMgDTkB2fM/T_k_zC" async=""></script><script>
+    (function(fiszh){
+    var d = document,
+        s = d.createElement('script'),
+        l = d.scripts[d.scripts.length - 1];
+    s.settings = fiszh || {};
+    s.src = "\/\/glaringregister.com\/a.W\/5ywpYKWcdwl\/QT2H9OkZZKTT9\/6Mba2m5zl\/STWjQA9\/NfT\/Aj5\/N-jZEB5\/MyiP0T1dMgDTkB2fM\/T_k_zC";
+    s.async = true;
+    l.parentNode.insertBefore(s, l);
+    })({})
+    </script>
+    <script src="//glaringregister.com/biXkVLsud.G/lc0/Y_Wec_/WejmZ9pufZHUMlZkUPjT/U/w/OzT/YixtOgTnQ/tyNtTJAH5mNdjvEW5eNjQz" async=""></script><script>
+    (function(ufvwob){
+    var d = document,
+        s = d.createElement('script'),
+        l = d.scripts[d.scripts.length - 1];
+    s.settings = ufvwob || {};
+    s.src = "\/\/glaringregister.com\/biXkVLsud.G\/lc0\/Y_Wec_\/WejmZ9pufZHUMlZkUPjT\/U\/w\/OzT\/YixtOgTnQ\/tyNtTJAH5mNdjvEW5eNjQz";
+    s.async = true;
+    l.parentNode.insertBefore(s, l);
+    })({})
+    </script>
+  <div class="tab-bar">
+    <div class="container">
+      <img src="assets/img/jmw.png" style="
+            border-radius: 25px;
+            padding: 20px;
+            width: 50px;
+            height: px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            ">
+    </div>
+    <p><strong>v4</strong></p>
+    <a href="/" class="tab" data-tab="home"><i class="fas fa-home"></i> Home</a>
+    <a href="gs" class="tab" data-tab="google"><i class="fas fa-gamepad"></i> Games</a>
+    <a href="/math" class="tab" data-tab="win11"><i class="fab fa-app-store-ios"></i> Apps</a>
+    <a href="settings" class="tab" data-tab="brave"><i class="fas fa-cog"></i> Settings</a>
+     <a href="/chat" class="tab" data-tab="brave"><i class="fa-regular fa-comments"></i> Chatbox</a>
+  </div>
+  <div align="center">
+    <p> </p>
+    <div style="background:transparent; border-radius: 4px;" id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" style="display: inline;"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="as">Assamese</option><option value="ay">Aymara</option><option value="az">Azerbaijani</option><option value="bm">Bambara</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bho">Bhojpuri</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="dv">Dhivehi</option><option value="doi">Dogri</option><option value="nl">Dutch</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="ee">Ewe</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gn">Guarani</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="ilo">Ilocano</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="rw">Kinyarwanda</option><option value="gom">Konkani</option><option value="ko">Korean</option><option value="kri">Krio</option><option value="ku">Kurdish (Kurmanji)</option><option value="ckb">Kurdish (Sorani)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="ln">Lingala</option><option value="lt">Lithuanian</option><option value="lg">Luganda</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mai">Maithili</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mni-Mtei">Meiteilon (Manipuri)</option><option value="lus">Mizo</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="or">Odia (Oriya)</option><option value="om">Oromo</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="qu">Quechua</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="sa">Sanskrit</option><option value="gd">Scots Gaelic</option><option value="nso">Sepedi</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="tt">Tatar</option><option value="te">Telugu</option><option value="th">Thai</option><option value="ti">Tigrinya</option><option value="ts">Tsonga</option><option value="tr">Turkish</option><option value="tk">Turkmen</option><option value="ak">Twi</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="ug">Uyghur</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select></div>&nbsp;&nbsp;Powered by <span style="white-space:nowrap"><a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank"><img src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></div>
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({ pageLanguage: "en", layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL }, "google_translate_element");
+      }
+    </script>
+
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="container">
+      <img src="/assets/img/jmw.png" style="
+            border-radius: 25px;
+            padding: 20px;
+            width: 50px;
+            height: px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            ">
+    </div>
+  </div>
+  <h4>JordansMathWork</h4>
+    <h6 class="motd">motd: v5 is done! thanks for using v4! :) join the discord for links!</h6>
+  <p><span id="subtitle">LOL</span></p>
+    <button style="width: px; height: 150px; font-size: 15px;" onclick="location.href='link-gen.html'" id="start-button"><i class="fa-solid fa-circle-question"></i> Want more links?</button>
+  <button style="width: px; height: 150px; font-size: 15px;" onclick="location.href='/reports.html?report=bug.html'" id="start-button"><i class="fa-solid fa-bug-slash"></i> Wanna report a bug? Click here!</button>
+  <button style="width: px; height: 150px; font-size: 15px;" onclick="location.href='xploits'"><i class="fa-solid fa-lock-open"></i> Exp<span>loi</span>ts/Bookmarklets</button>
+  <!-- hitwebcounter Code START -->
+  <a href="https://www.hitwebcounter.com" target="_blank">
+    <img src="https://hitwebcounter.com/counter/counter.php?page=8133209&amp;style=0036&amp;nbdigits=9&amp;type=page&amp;initCount=14623" title="Free Counter" alt="web counter" border="0"></a>
+  
+  
+    <div align="center">
+      <strong><h6 style="font-weight: bold; font-size:30px;">Featured:</h6></strong>
+      <img src="https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht" class="featuredimg" onclick="location.href='/gs/src/rblx'">
+      <img src="/assets/img/gameimg/mc152.png" class="featuredimg" onclick="location.href='/gs/files.html?file=mc/1.5.2/inde.html&amp;type=local'">
+      <img src="assets/img/gameimg/slope.jpg" onclick="location.href='/gs/files.html?file=slope&amp;type=3kh0'" onerror="this.src='/assets/img/no-icon-found.png'" class="featuredimg" alt="Slope">
+      <img src="assets/img/gameimg/bounce-masters.jpg" onclick="location.href='/gs/files.html?file=bounce-master&amp;type=local'" onerror="this.src='/assets/img/no-icon-found.png'" class="featuredimg" alt="Bounce Masters">
+      <img src="/assets/img/gameimg/basket.jpeg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=basket-random&amp;type=3kh0'" class="featuredimg" alt="Basket Random">
+      <p> </p>
+      <img src="assets/img/gameimg/f.png" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/src/fortnite'" class="featuredimg" alt="Fortnite">
+      <img src="assets/img/gameimg/alien-hominid.jpg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=alien-hominid&amp;type=local'" class="featuredimg" alt="Alien Hominid">
+      <img src="assets/img/gameimg/amazing-strange.jpeg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=amazing-rope-police&amp;type=3kh0'" class="featuredimg" alt="Bitlife">
+      <img src="assets/img/gameimg/retro.jpg" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=retro-bowl&amp;type=3kh0'" class="featuredimg" alt="Retro Bowl">
+      <img src="assets/img/gameimg/retrobowl-college.png" onerror="this.src='/assets/img/no-icon-found.png'" onclick="location.href='/gs/files.html?file=retro-bowl-college&amp;type=local'" class="featuredimg" alt="Retro Bowl">
+    </div>
+  <div align="center">
+    <a class="ez" href="https://github.com/GalacticNetwork/jordansmathwork-v4"><i class="fa-brands fa-github"></i></a>
+    <a class="ez" href="https://dsc.gg/gnetwork"><i class="fa-brands fa-discord"></i></a>
+    <a class="ez" href="https://tiktok.com/@galacticnetworkofficial"><i class="fa-brands fa-tiktok"></i></a>
+    <a class="ez" href="https://youtube.com/channel/UCie_zggArXCJHKiZRJqUWRw"><i class="fa-brands fa-youtube"></i></a>
+  </div>
+  <img style="border-radius: 24px; width: 450; height: 150;" src="assets/img/advertizements.gif">
+  <div align="center">
+    <footer>
+      <h6><i class="fa-solid fa-user-lock"></i> <strong>Trusted by 20k+</strong></h6>
+    </footer>
+    <center>
+      <footer>
+        <h6><i class="fa-solid fa-gamepad"></i> Over 300+ games</h6>
+      </footer>
+    </center>
+  </div>
+    <a class="button" href="/reviews">All Reviews</a>
+    <div class="contain">
+
+      <div class="team">
+        <div class="member">
+          <img class="reviewimg" src="/assets/img/reviewimg/slqnted.png" alt="member_image">
+          <h3 class="h3">slqnt</h3>
+          <span>8/10</span>
+          <p>A lot of games, over 200 is insane. Kind of buggy tho, i dont blame him, it's in beta.</p>
+        </div>
+        <div class="member">
+          <img class="reviewimg " src="https://64.media.tumblr.com/98cb8f1d9eb69e5a1f9f6d08c2e3a693/tumblr_ns6issAtWt1uylufgo1_500.gif" alt="member_image">
+          <h3 class="h3">Not_bduber274</h3>
+          <span>10/10</span>
+          <p>Jordansmathwork is a great site, i enjoy the games, great styles, customization and more. 10/10.</p>
+        </div>
+        <div class="member">
+          <img class="reviewimg" src="/assets/img/reviewimg/firestar.jpeg" alt="member_image">
+          <h3 class="h3">FireStar</h3>
+          <span class="review">10/10</span>
+          <p>Jordansmathwork is by far the best unblocked game website in the thousands of them out there! Highly recommend!^^</p>
+        </div>
+      </div>
+    </div>
+    <br>
+  <div class="footer">
+    <div class="copyright">
+      <a class="small" href="/info" style="text-decoration: none; color: inherit; "><i class="fa-regular fa-copyright"></i><strong> copyright galactic network 2024 - 2025</strong></a>
+    </div>
+  </div>
+  
+<script src="/assets/scripts/subtitle.js"></script>
+<script src="/assets/scripts/settings1.js"></script>
+<script src="/assets/scripts/settings2.js"></script>
+<script src="/assets/scripts/autoab.js"></script>
+  <script src="/js/panic.js"></script>
+  <script src="/js/themes.js"></script>
+  <script src="/js/index.js"></script>
+<script src="https://www.handsomebend.pro/ecc874/7a841f9d85d2.js"></script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0" data-xweqlk-handled="1"></iframe><div class="xweqlkOverlay" style="background:#666;opacity:0.0001;position:absolute;cursor:pointer;height:0px;width:0px;left:0px;top:0px;z-index:2"></div></div></div></div><div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><div class="▭" id="kaxims"><a class="▭__adsby" href="" id="kaxims-adsby" target="_blank" tabindex="-1"></a><div class="▭__push ▭_started"><div class="▭__body"><div class="▭__icon" style="background: url(https://glaringregister.com/c.H-VTzUaVGWl_tYZZza9bh-ZdEelfkgP_TiUjzkNlj-An5oMpCqZ_jsdtDu1vs-cxnyhzvAZ_GCJDpEaFT-dH5IZJWKh_uMcNGOsP4-NRjSVTqUe_SWZXmYcZH-Yb9cMdCeZ_mgchniYj9-MlCmZnpob_Wqcr9satH-Rv0wcxHyM_lAMB0CEDl-MFkGYHlIM_kKYLxMMND-kP0QNRSS0_yULVnWMXu-YZ2aRbucM_TeUfugYh2-9jtkJlTmJ_GoYp3qJrl-YtXuRvpwd_myVzzAJBT-JDGENFzGE_5INJDKALl-MNkOYPyQO_DSQTyUOVT-IXlYMZkaY_1cMdzeYfw-OhTiBjfkY_2mIn1oMpz-IrusctGu5_nwJxnyBzh-eBTC0DwEJ_nGBHhIeJW-9L1MdNFOB_lQcRkSNTs-aVWWNXrYP_TaAbmccdm-Vf2gPhTiA_mkcl2mlnk-Mpzq0rmsc_3uMv9wNxC-ZzzAdBDC0_xEJFnGpHv-bJmKVLJMZ_DO0P1QMRD-kT2UMVTWk_yY) center/cover"></div><div class="▭__text"><div class="▭__title">Wait for your order, private!</div><div class="▭__domain">ilililililililililililililililililili.netlify.app</div><div class="▭__desc">Get on boat right now!</div></div></div><button class="▭__close" data-button="" tabindex="-1"></button></div><div class="▭__push ▭_started"><div class="▭__body"><div class="▭__icon" style="background: url(https://glaringregister.com/cMHNV.zOa_GQlRtSZTz-9VhWZXEYl_kaPbTcUdz-NfjgAh4iN_ykZljmdnD-1psqcrnsh_suZvGwJxp-azTAdB5CZ_WEhFqGZHj-AJwKML2Mt_6ONPiQZRm-cTHUYV9WM_CYZZmacbn-Yd9eMfCgZ_pibjWkcl9-anHoRp0qc_HsMtluMv0-ExlyMzkAY_lCMDkEYFx-MHDIkJ0KN_SM0NyOLPn-MRuSYT2UR_uWMXTYUZu-Yb2c9dteJ_TgJhGiYj3-JllmYnXoR_pqdrmsVtz-JvTwJxGyN_zAEB5CNDD-AFlGMHkIY_yKOLDMQNy-OPTQIRlSM_kUYV1WMXz-YZwaObDcd_feNfTgAh0-NjGkUlumc_Go5pnqJrn-BthuevTw0_wyJznABBh-eDWE9F1Gd_FIBJlKcLk-NNsOaPWQN_rSPTTUAVm-cXmYVZ2aP_TcAdmecf2-lhkiMjzk0_mmcn3oMp9-NrCsZtzud_Dw0xxyJzn-pBvCbDmEV_JGZHDI0J1-MLDMkN2OM_TQkRyS) center/cover"></div><div class="▭__text"><div class="▭__title">Can you win?</div><div class="▭__domain">ilililililililililililililililililili.netlify.app</div><div class="▭__desc">Show her your worth!</div></div></div><button class="▭__close" data-button="" tabindex="-1"></button></div></div><div style="width:100%;height:100%;position:fixed;top:0;left:0;z-index:9999999;display:none;">ll</div></body></html></html>
+
